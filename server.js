@@ -1,3 +1,7 @@
+server.listen(PORT, () => {
+  expect(server.address().port).toBe(PORT);
+});
+expect(server.use).toBeDefined();
 // server.js (Entry point)
 const express = require('express');
 const bodyParser = require('body-parser');
