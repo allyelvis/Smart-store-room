@@ -14,6 +14,7 @@ expect(res.status).toHaveBeenCalledWith(200);
 expect(res.send).toHaveBeenCalledWith({
   message: 'Product added successfully',
 });
+
 # Smart-store-room
 
 Certainly! Building a smart store room for selling, purchasing, and managing inventory using Node.js is a great choice. Let’s break down the steps to create this system:
