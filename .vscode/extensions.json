@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "golang.go",
+        "ms-vscode.cpptools",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "msjsdiag.vscode-react-native",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "webostvsdk.webostv"
+    ]
+}
